@@ -14,12 +14,15 @@ wget -q https://raw.githubusercontent.com/cryptrade-project/cryptradecoin-mn-ins
 chmod u+x install.sh
 ./install.sh
 ```
+***
+
 ## Usage:
 ```
 cryptradecoin-cli getinfo
 cryptradecoin-cli mnsync status
 cryptradecoin-cli masternode status
 ```
+
 If you want to check/start/stop **CryptradeCoin** , run one of the following commands as **root**:
 
 **Ubuntu 16.04 or 18.04**:
@@ -37,7 +40,6 @@ systemctl is-enabled CryptradeCoin #To check whetether CryptradeCoin service is 
 ```
 ***
 
-
 ## MN Collateral
 <table>
 <tr><th>Block Height</th><th>MN Collateral</th></tr>
@@ -48,3 +50,5 @@ systemctl is-enabled CryptradeCoin #To check whetether CryptradeCoin service is 
 <tr><td>270,001-540,000</td><td>8,000 CRCO</td></tr>
 <tr><td>>=540,001</td><td>10,000 CRCO</td></tr>
 </table>
+
+***
