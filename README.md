@@ -7,7 +7,7 @@ Cryptrade is a decentralized cryptocurrency trading platform built on top of bit
 
 CryptradeCoin(CRCO) is a private and anonymous cryptocurrency which is officially issued by Cryptrade. CRCO uses hybrid PoS+Masternode consensus to secure its blockchain and provides coin holders with full-time private and instant transactions by implementing swiftx and zerocoin protocol. Paying for the listing fees and trading fees in Cryptrade is the main use-case of CRCO coin.
 
-## Installation (On Ubuntu 14.04 or 16.04)
+## Installation (Ubuntu 14.04, 16.04 or 18.04)
 
 ```shell
 wget -q https://raw.githubusercontent.com/cryptrade-project/cryptradecoin-mn-install-script/master/install.sh
