@@ -16,7 +16,7 @@ chmod u+x install.sh
 ```
 ***
 
-## Usage:
+## Usage
 ```
 cryptradecoin-cli getinfo
 cryptradecoin-cli mnsync status
