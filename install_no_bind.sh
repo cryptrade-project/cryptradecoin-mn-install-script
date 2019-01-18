@@ -198,6 +198,16 @@ addnode=34.222.136.100
 addnode=54.213.224.162
 addnode=18.237.113.227
 addnode=54.245.1.253
+addnode=18.223.125.182
+addnode=18.188.25.254
+addnode=18.223.43.154
+addnode=18.191.235.108
+addnode=13.59.32.202
+addnode=18.218.226.165
+addnode=18.224.32.144
+addnode=18.217.108.145
+addnode=3.16.81.16
+addnode=18.224.69.46
 EOF
 }
 
